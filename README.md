@@ -1,5 +1,10 @@
 ### This repisotory is for distribution purposes
 
+### Updates V1.5.27 - 08/08/2018
+- BLE server library fix: ability to get advertisement manufacturer data
+- Consume manual cmd packet (C2H: Manual Fills)
+- Init new features: abilty to store custom item into a Ethernom's device
+
 ### Updates V1.5.26 - 07/25/2018
 - fix notification queue problem
 - only send string[0] up to string[31] if device name string.length is more than 31
