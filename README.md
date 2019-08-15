@@ -1,5 +1,9 @@
 ### This repisotory is for distribution purposes
 
+### Updates V1.5.28 - 08/13/2018
+- init auto-updater
+- init elliptic (encryption lib)
+
 ### Updates V1.5.27 - 08/08/2018
 - BLE server library fix: ability to get advertisement manufacturer data
 - Consume manual cmd packet (C2H: Manual Fills)
