@@ -2,6 +2,7 @@
 
 ### Updates V1.5.29 - 08/20/2019
 - init cmd & functions to get generic and custom item
+- windows: fix BLEServer.exe
 
 ### Updates V1.5.28 - 08/13/2019
 - init auto-updater
