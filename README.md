@@ -1,5 +1,8 @@
 ### This repisotory is for distribution purposes
 
+### Updates V1.5.30 - 08/30/2019
+- BLE server library fix: package with dependencies
+
 ### Updates V1.5.29 - 08/20/2019
 - init cmd & functions to get generic and custom item
 - windows: fix BLEServer.exe
