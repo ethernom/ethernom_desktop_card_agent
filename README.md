@@ -2,6 +2,7 @@
 
 ### Updates V1.5.30 - 08/30/2019
 - BLE server library fix: package with dependencies
+- Bug: fails to install vc_redist.x64.exe on some computer
 
 ### Updates V1.5.29 - 08/20/2019
 - init cmd & functions to get generic and custom item
